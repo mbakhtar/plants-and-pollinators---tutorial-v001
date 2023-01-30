@@ -4,6 +4,7 @@
 Add Climate Action Land Extension from the Extension drawer. 
 On the Extensions page search for Inksmith or Land
 ![Gif](/static/tutorials/french gif 3.Gif)
+![Flash lights](/static/tutorials/lights-flashing.gif)
 
 ## 
 
