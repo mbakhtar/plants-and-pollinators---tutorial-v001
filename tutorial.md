@@ -3,7 +3,7 @@
 ## @showdialog
 Add Climate Action Land Extension from the Extension drawer. 
 On the Extensions page search for Inksmith or Land
-![Gif](French Gif 1.gif)
+![Gif](/docs/static/mb/projects/flashing-heart/sim.gif)
 
 ## 
 
