@@ -3,7 +3,7 @@
 ## @showdialog
 Add Climate Action Land Extension from the Extension drawer. 
 On the Extensions page search for Inksmith or Land
-![Gif](https://github.com/mbakhtar/plants-and-pollinators---tutorial-v001/tree/f0110d46d90705a14de501a7702993f6257f111c)
+![Gif](plants-and-pollinators---tutorial-v001/French Gif 1.gif)
 ![Flash lights](/static/tutorials/lights-flashing.gif)
 
 ## 
