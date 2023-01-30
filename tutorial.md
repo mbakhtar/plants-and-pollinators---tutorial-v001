@@ -6,21 +6,7 @@ On the Extensions page search for Inksmith or Land
 ![Gif](/static/tutorials/french gif 3.Gif)
 
 ## 
-```blocks
-basic.forever(function () {
-        if (touch.getTouch(touch.TouchPin.P1)) {
-            soil.displayMoisture(soil.SoilPin.P0)
-      } else {
-         basic.showLeds(`
-             . . . . .
-             . . . . .
-             . . . . .
-             . . . . .
-             . . . . .
-             `)
-        }
-    })
-```
+
 ## 
 After adding the ``||Extension||`` create a variable. 
 Go to ``||Variables||`` 
