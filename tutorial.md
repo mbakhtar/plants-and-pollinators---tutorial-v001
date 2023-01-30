@@ -6,7 +6,19 @@ On the Extensions page search for Inksmith or Land
 
 ## 
 ```blocks
-cakLandTouch.getTouch()
+basic.forever(function () {
+        if (touch.getTouch(touch.TouchPin.P1)) {
+            soil.displayMoisture(soil.SoilPin.P0)
+      } else {
+         basic.showLeds(`
+             . . . . .
+             . . . . .
+             . . . . .
+             . . . . .
+             . . . . .
+             `)
+        }
+    })
 ```
 ## 
 After adding the ``||Extension||`` create a variable. 
