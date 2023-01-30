@@ -3,6 +3,7 @@
 ## @showdialog
 Add Climate Action Land Extension from the Extension drawer. 
 On the Extensions page search for Inksmith or Land
+(Want to learn how lights work? [Watch this video](https://youtu.be/qqBmvHD5bCw))
 ![Gif](/sim.gif)
 
 ## 
